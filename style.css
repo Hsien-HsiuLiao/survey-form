@@ -1,0 +1,46 @@
+body{
+  background-color: green;
+}
+#title {
+  text-align:center;
+}
+
+#description {
+  text-align:center;
+}
+
+#survey-form {
+  margin:auto;
+  width: 80%;
+  background-color:white;
+}
+
+#name-label{
+  text-color:blue;
+}
+name, email{
+  width:200px;
+}
+span {
+  width:500px;
+}
+
+fieldset {
+  width:50%;
+}
+select {
+  border:none;
+  display:inline-block;
+  color:red;
+}
+
+#name-label, #email-label, #number-label {
+  padding: 12px 12px 12px 520px;
+  text-align:right;
+  display: inline-block;
+}
+
+
+#dropdown {
+  padding: 200px;
+}
